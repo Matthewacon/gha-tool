@@ -1,0 +1,6 @@
+[submodule "dependencies/cJSON"]
+	path = dependencies/cJSON
+	url = https://github.com/DaveGamble/cJSON.git
+[submodule "dependencies/cakemake"]
+	path = dependencies/cakemake
+	url = https://github.com/Matthewacon/cakemake.git
